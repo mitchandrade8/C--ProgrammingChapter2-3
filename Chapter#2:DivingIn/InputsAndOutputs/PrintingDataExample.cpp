@@ -17,4 +17,6 @@ int main() {
     // Log message
     std::clog << "std::clog output : This is a log message" << std::endl;
 
+    return 0;
+
 }
