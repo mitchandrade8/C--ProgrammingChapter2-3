@@ -23,6 +23,7 @@ int main(int argc, char **argv) {
     std::cout << "Sum : " << sum << std::endl; 
 
     sum = addNumbers(30, 54);
+    std::cout << "Sum : " << sum << std::endl;
 
     return 0;
     
