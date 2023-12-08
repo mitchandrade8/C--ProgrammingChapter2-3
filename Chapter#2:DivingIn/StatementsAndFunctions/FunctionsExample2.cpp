@@ -19,6 +19,11 @@ int main(int argc, char **argv) {
     int sum = first_number + second_number;
     std::cout << "Sum : " << sum << std::endl;
 
+    sum = addNumbers(25, 7);
+    std::cout << "Sum : " << sum << std::endl; 
+
+    sum = addNumbers(30, 54);
+
     return 0;
     
 }
